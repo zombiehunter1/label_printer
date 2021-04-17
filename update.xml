@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
     <version>2.0.0.1</version>
-    <url>http://rbsoft.org/downloads/AutoUpdaterTest.zip</url>
+    <url>https://github.com/zombiehunter1/label_printer/raw/main/update.zip</url>
     <changelog>https://raw.githubusercontent.com/zombiehunter1/label_printer/main/changelog.html</changelog>
     <mandatory>false</mandatory>
 </item>
