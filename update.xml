@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
-    <version>3.1.0.0</version>
+    <version>3.2.0.0</version>
     <url>https://github.com/zombiehunter1/label_printer/raw/main/update.zip</url>
     <changelog>https://raw.githubusercontent.com/zombiehunter1/label_printer/main/changelog.html</changelog>
     <mandatory>true</mandatory>
